@@ -1,1 +1,1 @@
-This is a typing game created with HTML, CSS and JS. This game checks every pressed key with a green bar detector and progress if correct and a red bar detector with the mistaken letter and persist. Lastly, you get to review your performance at the end of every set of words to see your score, accuracy and typing speed.
+
